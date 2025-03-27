@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gianmarcocavallo.com/sitemap-index.xml
-Sitemap: https://gianmarcocavallo.com/sitemap-0.xml
